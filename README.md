@@ -16,4 +16,4 @@ e) Stemming
 Applying train_test_split
 # Train the classifier
 # Evaluate the performance
-Nw using hyperparameters to better tune data.
+Now using hyperparameters to better tune data.
